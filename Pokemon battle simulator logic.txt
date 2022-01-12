@@ -1,0 +1,6 @@
+Things i need for a pokemon battle simulator
+1. create a pokemon with hp, special defense, special Attack, speed, attack, and defense.
+2. build in type advantages. start with single types and then go to dual types.
+3. Set it up for the physical special split.
+
+We need to change the damage calcualtion somewhere
